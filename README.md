@@ -97,3 +97,7 @@ Most should be under the zlib license or an equivalent GNU
 all-permissive license, though this merits an audit.
 
 [nrom-template]: https://github.com/pinobatch/nrom-template/
+
+|
+Achtung: mm3co / MM3CO.ZIP
+ARTIKEL: https://forums.nesdev.org/viewtopic.php?p=302701#p302701
